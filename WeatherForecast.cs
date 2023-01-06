@@ -1,4 +1,4 @@
-namespace AspNetCoreRateLimit;
+namespace AspNetCoreRateLimitExample;
 
 public class WeatherForecast
 {

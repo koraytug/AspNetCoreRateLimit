@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace AspNetCoreRateLimit.Controllers;
+namespace AspNetCoreRateLimitExample.Controllers;
 
 [ApiController]
 [Route("[controller]")]
